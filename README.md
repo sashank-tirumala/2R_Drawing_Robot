@@ -1,0 +1,2 @@
+# 2R_Drawing_Robot
+All the code for a 2R manipulator that draws outlines of human images. It is a mix of computer vision code implemented and Matlab and partially lifted from Petr Zikovsky. There is also some python code, which basically solves rural postman problem using Monte Carlo Localization and Genetic Algorithms. These codes are from a combination of various sources online that I unfortunately cannot find now. If any queries drop me a message / mail 
